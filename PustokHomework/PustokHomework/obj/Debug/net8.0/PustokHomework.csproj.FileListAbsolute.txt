@@ -134,3 +134,4 @@ C:\Users\Farid\Desktop\homewotk\Backend\homework4\PustokHomework\PustokHomework\
 C:\Users\Farid\Desktop\homewotk\Backend\homework4\PustokHomework\PustokHomework\obj\Debug\net8.0\PustokHomework.pdb
 C:\Users\Farid\Desktop\homewotk\Backend\homework4\PustokHomework\PustokHomework\obj\Debug\net8.0\PustokHomework.genruntimeconfig.cache
 C:\Users\Farid\Desktop\homewotk\Backend\homework4\PustokHomework\PustokHomework\obj\Debug\net8.0\ref\PustokHomework.dll
+C:\Users\Farid\Desktop\homewotk\Backend\homework4\PustokHomework\PustokHomework\obj\Debug\net8.0\PustokHomework.sourcelink.json

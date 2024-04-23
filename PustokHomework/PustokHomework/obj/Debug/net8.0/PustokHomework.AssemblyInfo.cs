@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PustokHomework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54b3fa153af77e6bea085a60823b43997d7ab806")]
 [assembly: System.Reflection.AssemblyProductAttribute("PustokHomework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PustokHomework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
